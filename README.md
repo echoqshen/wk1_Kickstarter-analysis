@@ -9,6 +9,7 @@ Louise wants to start a fundraising campaign for a play "Fever". She wants to kn
     - There are more events happening from May to July period than any other months.
     - The successful fundraising has a normal distribution where it peaks in May.
     The dataset is collected from all over the world in years 2009 to 2017, but we are not able to see the impact as the chart is based on months only.  Activities in countries from southern hemisphere are different to those in northern hemisphere. We are not able to see the season different impact on the outcomes.
+
 2. 'Outcomes based on Goal' chart shows a different story:
     - The success rate is 3 times higher than failed rate if you ask for less than $5,000;
     - the successful and failed lines are following a linear trend, yet opposite directions. The breakeven point is within $15,000 to $19,000 range. After the breakeven point, the more money you ask for, the more likely you fail. After $25,000 to $29,999 range, it's just random because of not enough data points to present the accurate story.
